@@ -1,10 +1,10 @@
-# BlueVision Dakhla — Prototype de démo (Hackathon)
+# AquaGuard Dakhla — Prototype de démo (Hackathon)
 
 Plateforme d'intelligence côtière : « météo des risques marins » pour anticiper les efflorescences
 algales nuisibles (HAB) à 72 h autour de Dakhla.
 
 ```
-bluevision/
+aquaguard/
 ├── frontend/   React (Vite) + TailwindCSS + Leaflet  → le tableau de bord
 ├── backend/    FastAPI  → moteur de données (scénario simulé déterministe)
 └── ai_poc/     PyTorch U-Net → preuve de concept vision par ordinateur

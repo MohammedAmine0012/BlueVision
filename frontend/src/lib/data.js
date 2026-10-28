@@ -23,7 +23,7 @@ export async function probeApi() {
 export function alertMessage(zone) {
   const lbl = zone.eta_high_hours != null ? horizonLabel(zone.eta_high_hours) : null
   const when = lbl ? `Seuil critique prévu ${lbl.day} à ${lbl.time}.` : 'Surveillance renforcée.'
-  return `⚠ BlueVision · ${zone.short} — risque d’algues toxiques ${LEVEL[zone.level].label.toLowerCase()}. ${when} Action : ${zone.actions[0]}.`
+  return `⚠ AquaGuard · ${zone.short} — risque d’algues toxiques ${LEVEL[zone.level].label.toLowerCase()}. ${when} Action : ${zone.actions[0]}.`
 }
 
 export async function sendAlert(zoneId, hour, source) {

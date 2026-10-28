@@ -1,5 +1,5 @@
 """
-BlueVision Dakhla – FastAPI data engine (demo mode).
+AquaGuard Dakhla – FastAPI data engine (demo mode).
 
 Run:  uvicorn main:app --reload --port 8000
 Docs: http://localhost:8000/docs
@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import engine
 
 app = FastAPI(
-    title="BlueVision Dakhla API",
+    title="AquaGuard Dakhla API",
     description="Météo des risques marins – prévision HAB à 72 h (mode démo, données simulées).",
     version="0.3.0",
 )

@@ -6,7 +6,7 @@ sinon fond vectoriel. Commencer à `+0 h`, zone Boutalha sélectionnée (état p
 ---
 
 **0:00 – Le contexte (carte à +0 h)**
-> « Voici BlueVision Dakhla, la météo des risques marins. Ce matin à 6 h, nos modèles détectent
+> « Voici AquaGuard Dakhla, la météo des risques marins. Ce matin à 6 h, nos modèles détectent
 > une efflorescence algale toxique à 40 km au large, dans la zone d'upwelling. Pour l'instant,
 > toutes nos zones économiques sont au vert. »
 
@@ -43,7 +43,7 @@ Faire glisser le comparateur gauche ↔ droite.
 Montrer la chaîne : Acquisition → Pré-traitement → U-Net → Prévision 72 h.
 
 **2:10 – Conclusion (touche M, puis touche 4)**
-> « BlueVision unifie aquaculture, eau, tourisme et port autour d'une seule plateforme —
+> « AquaGuard unifie aquaculture, eau, tourisme et port autour d'une seule plateforme —
 > au service de la vision du Port Dakhla Atlantique et de l'économie bleue. »
 
 ---

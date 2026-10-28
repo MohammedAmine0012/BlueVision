@@ -34,7 +34,7 @@ export default function AIView() {
           <div className="label !text-lagoon-300">Vision IA</div>
           <h2 className="text-2xl font-semibold text-white mt-1">L’IA repère les algues toxiques depuis l’espace</h2>
           <p className="text-sm text-slate-400 mt-1 max-w-2xl">
-            À partir d’une simple image satellite, BlueVision distingue l’eau saine, les nuages, la côte — et les zones d’algues toxiques.
+            À partir d’une simple image satellite, AquaGuard distingue l’eau saine, les nuages, la côte — et les zones d’algues toxiques.
           </p>
         </div>
 

@@ -1,5 +1,5 @@
 """
-Run the BlueVision U-Net on a REAL satellite image (e.g. a Sentinel-2 true-colour export
+Run the AquaGuard U-Net on a REAL satellite image (e.g. a Sentinel-2 true-colour export
 from the Copernicus Browser: https://browser.dataspace.copernicus.eu).
 
     python segment_real.py --rgb my_sentinel2_truecolor.png [--nir my_B08.png] [--finetune]

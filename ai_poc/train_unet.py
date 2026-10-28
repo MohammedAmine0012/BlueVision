@@ -1,5 +1,5 @@
 """
-BlueVision Dakhla – AI proof of concept.
+AquaGuard Dakhla – AI proof of concept.
 
 1. Pre-trains a compact U-Net on synthetic Sentinel-2-like scenes (4 bands: B2, B3, B4, B8)
 2. Evaluates on a large held-out scene never seen in training

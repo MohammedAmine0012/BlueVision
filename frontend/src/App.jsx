@@ -17,7 +17,7 @@ function Logo() {
         </svg>
       </div>
       <div className="leading-tight">
-        <div className="text-[15px] font-semibold text-white tracking-tight">BlueVision <span className="text-lagoon-300">Dakhla</span></div>
+        <div className="text-[15px] font-semibold text-white tracking-tight">AquaGuard <span className="text-lagoon-300">Dakhla</span></div>
         <div className="text-[10.5px] text-slate-400">Météo des risques marins</div>
       </div>
     </div>

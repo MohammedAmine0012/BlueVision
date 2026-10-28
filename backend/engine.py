@@ -1,5 +1,5 @@
 """
-BlueVision Dakhla – mock forecast engine.
+AquaGuard Dakhla – mock forecast engine.
 
 For the hackathon demo we do NOT run live inference. This module produces a
 deterministic, physically plausible 72-hour HAB (harmful algal bloom) scenario:
@@ -326,7 +326,7 @@ def grid_payload() -> dict:
 def full_bundle() -> dict:
     return {
         "meta": {
-            "project": "BlueVision Dakhla",
+            "project": "AquaGuard Dakhla",
             "model": "HAB-UNet-Forecast v0.3 (demo scenario)",
             "sources": ["Copernicus Sentinel-3 OLCI", "Sentinel-2 MSI", "CMEMS courants", "Bouées locales"],
             "issued_at": "2026-10-28T06:00:00Z",
